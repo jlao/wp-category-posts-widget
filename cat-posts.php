@@ -4,7 +4,7 @@ Plugin Name: Category Posts Widget
 Plugin URI: http://jameslao.com/2009/12/30/category-posts-widget-3-0/
 Description: Adds a widget that can display posts from a single category.
 Author: James Lao	
-Version: 3.1
+Version: 3.2
 Author URI: http://jameslao.com/
 */
 
